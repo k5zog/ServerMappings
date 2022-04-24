@@ -1285,5 +1285,13 @@
         "addresses": [
             "mythicalmc.org"
         ]
+    },
+    {
+        "id": "freshpvp",
+        "name": "Fresh Network",
+        "addresses": [
+            "freshpvp.net"
+            "neptunepvp.us"
+        ]
     }
 ]
